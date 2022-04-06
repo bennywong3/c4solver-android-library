@@ -1,0 +1,5 @@
+# ninja log v5
+8	4748	669907323	CMakeFiles/native-lib.dir/Solver.cpp.o	80e63de0975c869
+14	4788	669907323	CMakeFiles/native-lib.dir/native-lib.cpp.o	82a4183b06df4717
+1	4846	669907324	CMakeFiles/native-lib.dir/Interface.cpp.o	6abe0c2390cb91d2
+4846	5307	669907324	E:/git/fyp/fyp_connectfourbot/c4solver/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	71a4be4287d5bf80

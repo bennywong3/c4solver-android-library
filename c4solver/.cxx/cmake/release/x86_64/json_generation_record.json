@@ -1,0 +1,205 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\.cxx\\cmake\\release\\x86_64\\android_gradle_build.json due to:",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "  - E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "keeping json folder \u0027E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\.cxx\\cmake\\release\\x86_64\u0027 but regenerating project",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : E:\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HE:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\n-DCMAKE_FIND_ROOT_PATH\u003dE:\\git\\fyp\\fyp_connectfourbot\\c4solver\\.cxx\\cmake\\release\\prefab\\x86_64\\prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003dE:\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003dx86_64\n-DANDROID_NDK\u003dE:\\Sdk\\ndk\\21.4.7075529\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DCMAKE_ANDROID_NDK\u003dE:\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\git\\fyp\\fyp_connectfourbot\\c4solver\\build\\intermediates\\cmake\\release\\obj\\x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dE:\\git\\fyp\\fyp_connectfourbot\\c4solver\\build\\intermediates\\cmake\\release\\obj\\x86_64\n-DCMAKE_MAKE_PROGRAM\u003dE:\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-BE:\\git\\fyp\\fyp_connectfourbot\\c4solver\\.cxx\\cmake\\release\\x86_64\n-GNinja\njvmArgs : \n\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"E:/git/fyp/fyp_connectfourbot/c4solver/src/main/cpp\",\n  \"buildDirectory\": \"E:/git/fyp/fyp_connectfourbot/c4solver/.cxx/cmake/release/x86_64\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dE:\\\\git\\\\fyp\\\\fyp_connectfourbot\\\\c4solver\\\\.cxx\\\\cmake\\\\release\\\\prefab\\\\x86_64\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dE:\\\\Sdk\\\\ndk\\\\21.4.7075529\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86_64\",\n    \"-DANDROID_NDK\\u003dE:\\\\Sdk\\\\ndk\\\\21.4.7075529\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86_64\",\n    \"-DCMAKE_ANDROID_NDK\\u003dE:\\\\Sdk\\\\ndk\\\\21.4.7075529\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dE:\\\\git\\\\fyp\\\\fyp_connectfourbot\\\\c4solver\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\x86_64\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003dE:\\\\git\\\\fyp\\\\fyp_connectfourbot\\\\c4solver\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\x86_64\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dE:\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d21\"\n  ]\n}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"E:/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\"E:/Sdk/ndk/21.4.7075529/build/cmake/platforms.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"E:/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"E:/git/fyp/fyp_connectfourbot/c4solver/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"E:/git/fyp/fyp_connectfourbot/c4solver/.cxx/cmake/release/x86_64\",\"name\":\"cppexample\",\"sourceDirectory\":\"E:/git/fyp/fyp_connectfourbot/c4solver/src/main/cpp\",\"targets\":[{\"artifacts\":[\"E:/git/fyp/fyp_connectfourbot/c4solver/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so\"],\"buildDirectory\":\"E:/git/fyp/fyp_connectfourbot/c4solver/.cxx/cmake/release/x86_64\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security   -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"native_lib_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"native-lib.cpp\",\"Solver.cpp\",\"Interface.cpp\"]}],\"fullName\":\"libnative-lib.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-landroid -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"native-lib\",\"sourceDirectory\":\"E:/git/fyp/fyp_connectfourbot/c4solver/src/main/cpp\",\"sysroot\":\"E:/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\.cxx\\cmake\\release\\x86_64\\build_command.txt",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "E:\\git\\fyp\\fyp_connectfourbot\\c4solver\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

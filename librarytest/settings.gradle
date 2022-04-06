@@ -1,0 +1,3 @@
+rootProject.name = "librarytest"
+include ':app'
+include ':c4solver'
